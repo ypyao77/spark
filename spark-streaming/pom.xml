@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.demo</groupId>
-    <artifactId>streaming</artifactId>
+    <artifactId>spark-streaming</artifactId>
     <version>1.0.0</version>
 
     <packaging>pom</packaging>
